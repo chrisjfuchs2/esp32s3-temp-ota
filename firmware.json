@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "bin": ""
+  "version": "2.0.0",
+  "bin": "https://raw.githubusercontent.com/chrisjfuchs2/esp32s3-temp-ota/main/ESP32S3_OTA_Temp.ino.bin"
 }
